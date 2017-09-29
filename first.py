@@ -26,7 +26,7 @@ print(median)
 
 #2
 with open('second.py', 'r+') as f:
-    #f.write('Здарова братан!')
+   #f.write('Здарова братан!')
     print(f.read)
 
 
